@@ -1,5 +1,15 @@
 ## Spark and SQL Interview Scenerio Questions
 
+## install dependencies 
+
+pip install -r requirements.txt
+
+## set password for jupyter lab
+jupyter server password
+
+## start jupyter lab on ip
+jupyter lab --ip <IP ADDRESS> --no-browser
+
 ### Table of Contents
 
 |No| Scenerios                                                                |
